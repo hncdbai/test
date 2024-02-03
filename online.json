@@ -24,6 +24,7 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
       "name": "APTV-IPV6-TXT",
       "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
