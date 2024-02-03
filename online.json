@@ -19,6 +19,23 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "APTV-TXT",
+      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+      "name": "APTV-IPV6-TXT",
+      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "Livednow-TXT",
+      "url": "https://livednow.com/hmt.m3u?user_id=534486629&user_token=81cb0039867d0dff902472ca31e2801f",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "Proxy",
       "type": 2,
       "url": "proxy://do=live&type=today"
