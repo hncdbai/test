@@ -2,19 +2,19 @@
   "lives": [
     {
       "name": "TCatCloud-TXT",
-      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/TCatCloud/IPTV/master/IPTV.m3u",
+      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/vicjl/myIPTV/master/IPTV.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "TCatCloud-CCTV",
-      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/TCatCloud/IPTV/master/CNTV.m3u",
+      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/vicjl/myIPTV/master/CCTV.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "TCatCloud-CNTV-TXT",
-      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/TCatCloud/IPTV/master/CCTV.m3u",
+      "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/vicjl/myIPTV/master/CNTV.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
